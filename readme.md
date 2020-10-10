@@ -24,6 +24,6 @@ Clique no botão abaixo e faça o teste da aplicação.
 
 ## License
 
-Aplicação desenvolvida por [Victor Azevedo](www.linkedin.com/in/v1ct0r-4z3v3d0)
+Aplicação desenvolvida por [Victor Azevedo](http://www.linkedin.com/in/v1ct0r-4z3v3d0)
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
