@@ -5,7 +5,7 @@
 
 To-do list é uma aplicação web desenvolvida para auxiliar na organização de tarefas diarias:
 
-- [Simples, rápido e eficiente](ttp://tarefas.azevedoseg.com/).
+- [Simples, rápido e eficiente](http://tarefas.azevedoseg.com/).
 
 
 ## Sobre o Laravel
